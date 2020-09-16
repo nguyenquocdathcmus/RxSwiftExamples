@@ -14,8 +14,8 @@ end
 target 'RxSwiftExample' do
   use_frameworks!
 
-pod 'RxSwift',    '~> 3.0.0'
-pod 'RxCocoa',    '~> 3.0.0'
+pod 'RxSwift'
+pod 'RxCocoa'
 
 end
 
